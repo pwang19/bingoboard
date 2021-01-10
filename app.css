@@ -11,3 +11,7 @@ h2 {
     width: 100%;
     max-width: 200px;
 } 
+
+main {
+    background-color: rgb(241, 216, 169);
+}
